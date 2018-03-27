@@ -1,12 +1,12 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/10283521",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/10283521/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/10283521/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/tag/jdk10%2B46-20182703",
-  "id": 10283521,
-  "tag_name": "jdk10+46-20182703",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/10283586",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/10283586/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/10283586/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/tag/jdk-10%2B46-20182703",
+  "id": 10283586,
+  "tag_name": "jdk-10+46-20182703",
   "target_commitish": "master",
-  "name": "jdk10+46-20182703",
+  "name": "jdk-10+46-20182703",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -28,10 +28,10 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-03-27T15:49:34Z",
-  "published_at": "2018-03-27T16:41:15Z",
+  "created_at": "2018-03-27T16:41:17Z",
+  "published_at": "2018-03-27T16:44:44Z",
   "assets": [],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/tarball/jdk10+46-20182703",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/zipball/jdk10+46-20182703",
-  "body": "Nightly Build of jdk10+46"
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/tarball/jdk-10+46-20182703",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/zipball/jdk-10+46-20182703",
+  "body": "Nightly Build of jdk-10+46"
 }
