@@ -32,9 +32,9 @@
   "published_at": "2018-04-12T13:28:19Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6822379",
-      "id": 6822379,
-      "name": "OpenJDK10-OPENJ9_x64_Win_20180412.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6823595",
+      "id": 6823595,
+      "name": "OpenJDK10-OPENJ9_ppc64le_Linux_20180412.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -57,16 +57,16 @@
       },
       "content_type": "text/plain",
       "state": "uploaded",
-      "size": 104,
+      "size": 113,
       "download_count": 0,
-      "created_at": "2018-04-12T13:28:20Z",
-      "updated_at": "2018-04-12T13:28:20Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_x64_Win_20180412.sha256.txt"
+      "created_at": "2018-04-12T15:10:40Z",
+      "updated_at": "2018-04-12T15:10:40Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_ppc64le_Linux_20180412.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6822380",
-      "id": 6822380,
-      "name": "OpenJDK10-OPENJ9_x64_Win_20180412.zip",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6823596",
+      "id": 6823596,
+      "name": "OpenJDK10-OPENJ9_ppc64le_Linux_20180412.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -87,13 +87,13 @@
         "type": "User",
         "site_admin": false
       },
-      "content_type": "application/zip",
+      "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 204333071,
+      "size": 212401056,
       "download_count": 0,
-      "created_at": "2018-04-12T13:28:20Z",
-      "updated_at": "2018-04-12T13:28:49Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_x64_Win_20180412.zip"
+      "created_at": "2018-04-12T15:10:40Z",
+      "updated_at": "2018-04-12T15:12:20Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_ppc64le_Linux_20180412.tar.gz"
     },
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6823536",
@@ -160,9 +160,9 @@
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_ppc64_AIX_20180412.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6823595",
-      "id": 6823595,
-      "name": "OpenJDK10-OPENJ9_ppc64le_Linux_20180412.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6824302",
+      "id": 6824302,
+      "name": "OpenJDK10-OPENJ9_s390x_Linux_20180412.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -185,16 +185,16 @@
       },
       "content_type": "text/plain",
       "state": "uploaded",
-      "size": 113,
+      "size": 111,
       "download_count": 0,
-      "created_at": "2018-04-12T15:10:40Z",
-      "updated_at": "2018-04-12T15:10:40Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_ppc64le_Linux_20180412.sha256.txt"
+      "created_at": "2018-04-12T16:05:34Z",
+      "updated_at": "2018-04-12T16:05:34Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_s390x_Linux_20180412.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6823596",
-      "id": 6823596,
-      "name": "OpenJDK10-OPENJ9_ppc64le_Linux_20180412.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6824303",
+      "id": 6824303,
+      "name": "OpenJDK10-OPENJ9_s390x_Linux_20180412.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -217,11 +217,11 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 212401056,
+      "size": 216520426,
       "download_count": 0,
-      "created_at": "2018-04-12T15:10:40Z",
-      "updated_at": "2018-04-12T15:12:20Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_ppc64le_Linux_20180412.tar.gz"
+      "created_at": "2018-04-12T16:05:34Z",
+      "updated_at": "2018-04-12T16:06:39Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_s390x_Linux_20180412.tar.gz"
     },
     {
       "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6824248",
@@ -288,9 +288,9 @@
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_x64_Linux_20180412.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6824302",
-      "id": 6824302,
-      "name": "OpenJDK10-OPENJ9_s390x_Linux_20180412.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6822379",
+      "id": 6822379,
+      "name": "OpenJDK10-OPENJ9_x64_Win_20180412.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -313,11 +313,43 @@
       },
       "content_type": "text/plain",
       "state": "uploaded",
-      "size": 111,
+      "size": 104,
       "download_count": 0,
-      "created_at": "2018-04-12T16:05:34Z",
-      "updated_at": "2018-04-12T16:05:34Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_s390x_Linux_20180412.sha256.txt"
+      "created_at": "2018-04-12T13:28:20Z",
+      "updated_at": "2018-04-12T13:28:20Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_x64_Win_20180412.sha256.txt"
+    },
+    {
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/6822380",
+      "id": 6822380,
+      "name": "OpenJDK10-OPENJ9_x64_Win_20180412.zip",
+      "label": "",
+      "uploader": {
+        "login": "adoptopenjdk-github-bot",
+        "id": 26602665,
+        "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adoptopenjdk-github-bot",
+        "html_url": "https://github.com/adoptopenjdk-github-bot",
+        "followers_url": "https://api.github.com/users/adoptopenjdk-github-bot/followers",
+        "following_url": "https://api.github.com/users/adoptopenjdk-github-bot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adoptopenjdk-github-bot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adoptopenjdk-github-bot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adoptopenjdk-github-bot/subscriptions",
+        "organizations_url": "https://api.github.com/users/adoptopenjdk-github-bot/orgs",
+        "repos_url": "https://api.github.com/users/adoptopenjdk-github-bot/repos",
+        "events_url": "https://api.github.com/users/adoptopenjdk-github-bot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adoptopenjdk-github-bot/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "content_type": "application/zip",
+      "state": "uploaded",
+      "size": 204333071,
+      "download_count": 0,
+      "created_at": "2018-04-12T13:28:20Z",
+      "updated_at": "2018-04-12T13:28:49Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180412/OpenJDK10-OPENJ9_x64_Win_20180412.zip"
     }
   ],
   "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/tarball/jdk-10+46-20180412",
