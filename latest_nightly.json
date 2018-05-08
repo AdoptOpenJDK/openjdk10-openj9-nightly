@@ -32,8 +32,8 @@
   "published_at": "2018-05-08T06:01:40Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7099428",
-      "id": 7099428,
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7106632",
+      "id": 7106632,
       "name": "OpenJDK10-OPENJ9_s390x_Linux_20180508.sha256.txt",
       "label": "",
       "uploader": {
@@ -59,13 +59,13 @@
       "state": "uploaded",
       "size": 111,
       "download_count": 0,
-      "created_at": "2018-05-08T06:01:41Z",
-      "updated_at": "2018-05-08T06:01:41Z",
+      "created_at": "2018-05-08T18:29:35Z",
+      "updated_at": "2018-05-08T18:29:35Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180508/OpenJDK10-OPENJ9_s390x_Linux_20180508.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7099429",
-      "id": 7099429,
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7106633",
+      "id": 7106633,
       "name": "OpenJDK10-OPENJ9_s390x_Linux_20180508.tar.gz",
       "label": "",
       "uploader": {
@@ -89,10 +89,10 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 216628840,
-      "download_count": 2,
-      "created_at": "2018-05-08T06:01:41Z",
-      "updated_at": "2018-05-08T06:02:04Z",
+      "size": 216556642,
+      "download_count": 0,
+      "created_at": "2018-05-08T18:29:37Z",
+      "updated_at": "2018-05-08T18:30:09Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180508/OpenJDK10-OPENJ9_s390x_Linux_20180508.tar.gz"
     },
     {
