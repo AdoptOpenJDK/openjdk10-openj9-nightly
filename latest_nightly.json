@@ -62,7 +62,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 113,
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2018-05-30T17:39:31Z",
       "updated_at": "2018-05-30T17:39:32Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10%2B46-20180530/OpenJDK10-OPENJ9_ppc64le_Linux_20180530.sha256.txt"
