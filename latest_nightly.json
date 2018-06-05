@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/11311377",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/11311377/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/11311377/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/tag/jdk-10.0.1%2B10-20180604",
-  "id": 11311377,
-  "node_id": "MDc6UmVsZWFzZTExMzExMzc3",
-  "tag_name": "jdk-10.0.1+10-20180604",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/11328974",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/11328974/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/11328974/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/tag/jdk-10.0.1%2B10-20180605",
+  "id": 11328974,
+  "node_id": "MDc6UmVsZWFzZTExMzI4OTc0",
+  "tag_name": "jdk-10.0.1+10-20180605",
   "target_commitish": "master",
-  "name": "jdk-10.0.1+10-20180604",
+  "name": "jdk-10.0.1+10-20180605",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": false,
-  "created_at": "2018-06-04T15:06:55Z",
-  "published_at": "2018-06-04T15:20:39Z",
+  "created_at": "2018-06-05T13:06:42Z",
+  "published_at": "2018-06-05T13:41:36Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7403404",
-      "id": 7403404,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MDM0MDQ=",
-      "name": "OpenJDK10-OPENJ9_x64_Linux_20180604.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7417558",
+      "id": 7417558,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MTc1NTg=",
+      "name": "OpenJDK10-OPENJ9_ppc64le_Linux_20180605.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,17 +61,17 @@
       },
       "content_type": "text/plain",
       "state": "uploaded",
-      "size": 109,
-      "download_count": 1,
-      "created_at": "2018-06-04T15:20:40Z",
-      "updated_at": "2018-06-04T15:20:40Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.1%2B10-20180604/OpenJDK10-OPENJ9_x64_Linux_20180604.sha256.txt"
+      "size": 113,
+      "download_count": 0,
+      "created_at": "2018-06-05T13:41:37Z",
+      "updated_at": "2018-06-05T13:41:37Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.1%2B10-20180605/OpenJDK10-OPENJ9_ppc64le_Linux_20180605.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7403405",
-      "id": 7403405,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MDM0MDU=",
-      "name": "OpenJDK10-OPENJ9_x64_Linux_20180604.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/releases/assets/7417559",
+      "id": 7417559,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDc0MTc1NTk=",
+      "name": "OpenJDK10-OPENJ9_ppc64le_Linux_20180605.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -95,14 +95,14 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 214684626,
-      "download_count": 4,
-      "created_at": "2018-06-04T15:20:41Z",
-      "updated_at": "2018-06-04T15:21:04Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.1%2B10-20180604/OpenJDK10-OPENJ9_x64_Linux_20180604.tar.gz"
+      "size": 213005826,
+      "download_count": 0,
+      "created_at": "2018-06-05T13:41:37Z",
+      "updated_at": "2018-06-05T13:44:56Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.1%2B10-20180605/OpenJDK10-OPENJ9_ppc64le_Linux_20180605.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/tarball/jdk-10.0.1+10-20180604",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/zipball/jdk-10.0.1+10-20180604",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/tarball/jdk-10.0.1+10-20180605",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-openj9-nightly/zipball/jdk-10.0.1+10-20180605",
   "body": "Nightly Build of jdk-10.0.1+10"
 }
