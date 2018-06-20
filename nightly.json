@@ -921,7 +921,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 213041375,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-06-19T13:28:22Z",
         "updated_at": "2018-06-19T13:28:32Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.1%2B10-201819061300/OpenJDK10-OPENJ9_ppc64le_Linux_201819061300.tar.gz"
