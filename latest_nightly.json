@@ -368,7 +368,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 218473292,
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2018-08-04T14:20:46Z",
       "updated_at": "2018-08-04T14:20:58Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.2%2B13-201808041515/OpenJDK10-OPENJ9_x64_Windows_201808041515.zip"
