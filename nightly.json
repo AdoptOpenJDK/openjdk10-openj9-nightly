@@ -165,7 +165,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 223730498,
-        "download_count": 4,
+        "download_count": 5,
         "created_at": "2018-08-04T15:33:30Z",
         "updated_at": "2018-08-04T15:33:43Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.2%2B13-201808041515/OpenJDK10-OPENJ9_ppc64_AIX_201808041515.tar.gz"
@@ -233,7 +233,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 216993336,
-        "download_count": 8,
+        "download_count": 9,
         "created_at": "2018-08-05T03:23:24Z",
         "updated_at": "2018-08-05T03:23:41Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.2%2B13-201808041515/OpenJDK10-OPENJ9_s390x_Linux_201808041515.tar.gz"
