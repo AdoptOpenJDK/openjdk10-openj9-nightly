@@ -409,7 +409,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 224172287,
-        "download_count": 6,
+        "download_count": 7,
         "created_at": "2018-08-23T16:15:23Z",
         "updated_at": "2018-08-23T16:15:37Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/201808231700/OpenJDK10-OPENJ9_ppc64_AIX_201808231700.tar.gz"
