@@ -131,7 +131,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 106,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-08-27T20:31:46Z",
         "updated_at": "2018-08-27T20:31:46Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/201808271700/OpenJDK10-OPENJ9_x64_Linux_201808271700.sha256.txt"
@@ -165,7 +165,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 213771882,
-        "download_count": 2,
+        "download_count": 4,
         "created_at": "2018-08-27T20:31:47Z",
         "updated_at": "2018-08-27T20:31:58Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/201808271700/OpenJDK10-OPENJ9_x64_Linux_201808271700.tar.gz"
@@ -199,7 +199,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 108,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-08-28T03:49:02Z",
         "updated_at": "2018-08-28T03:49:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/201808271700/OpenJDK10-OPENJ9_s390x_Linux_201808271700.sha256.txt"
@@ -2253,7 +2253,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 110,
-        "download_count": 126,
+        "download_count": 127,
         "created_at": "2018-08-13T16:58:06Z",
         "updated_at": "2018-08-13T16:58:06Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.2%2B13-201808131307/OpenJDK10-OPENJ9_ppc64le_Linux_201808131307.sha256.txt"
@@ -2355,7 +2355,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 214738250,
-        "download_count": 50,
+        "download_count": 52,
         "created_at": "2018-08-13T19:23:11Z",
         "updated_at": "2018-08-13T19:23:23Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-openj9-nightly/releases/download/jdk-10.0.2%2B13-201808131307/OpenJDK10-OPENJ9_x64_Linux_201808131307.tar.gz"
